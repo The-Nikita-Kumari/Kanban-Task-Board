@@ -146,4 +146,6 @@ The optimized files will be in the `dist` folder.
 
 ---
 
-**Created as part of ProDesk IT Frontend Developer Internship - Week 5 Mission**
+## Link to see the functioning of the app
+
+https://kanban-task-board-two.vercel.app/
